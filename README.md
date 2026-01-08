@@ -90,7 +90,7 @@ It provides:
 
 ## 📊 Collection Framework Hierarchy
 
-![Collection Framework Hierarchy](Collection-Framework-Hierarchy.png)
+![Collection Framework Hierarchy](Collection-Framework.png)
 
 ---
 
